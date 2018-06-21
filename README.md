@@ -9,5 +9,5 @@ Agencies with TripUpdates: ['3D', 'AC', 'BA', 'CC', 'CT', 'DE', 'FS', 'GG', 'MA'
 Agencies with Positions:   ['3D', 'AC', 'BA', 'CC', 'CT', 'DE', 'FS', 'GG', 'MA', 'SC', 'SF', 'SM', 'SR', 'ST', 'VN', 'WC', 'WH']
 
 ## Dependencies:
-Google Transit GTFSrt bindings
-Requests
+    Google Transit GTFSrt bindings (`python3 -m pip install --upgrade gtfs-realtime-bindings`)
+    Requests (`python3 -m pip install requests`)
